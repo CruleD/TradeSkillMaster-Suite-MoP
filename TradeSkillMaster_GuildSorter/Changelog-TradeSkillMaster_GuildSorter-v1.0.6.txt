@@ -1,0 +1,67 @@
+------------------------------------------------------------------------
+r29 | j311yf1sh | 2014-03-21 20:27:51 +0000 (Fri, 21 Mar 2014) | 2 lines
+Changed paths:
+   A /tags/v1.0.6 (from /trunk:28)
+
+Changed new button location to fit in with titanpanel
+Changed background of new button panel
+------------------------------------------------------------------------
+r28 | j311yf1sh | 2014-03-21 20:27:16 +0000 (Fri, 21 Mar 2014) | 2 lines
+Changed paths:
+   M /trunk/ChangeLog.txt
+   M /trunk/Modules/Sort.lua
+   M /trunk/TradeSkillMaster_GuildSorter.toc
+
+Changed new button location to fit in with titanpanel
+Changed background of new button panel
+------------------------------------------------------------------------
+r26 | j311yf1sh | 2014-03-21 06:30:02 +0000 (Fri, 21 Mar 2014) | 1 line
+Changed paths:
+   M /trunk/ChangeLog.txt
+   M /trunk/Modules/Sort.lua
+   M /trunk/TradeSkillMaster_GuildSorter.toc
+
+Implemented a new button layout to look neater
+------------------------------------------------------------------------
+r24 | j311yf1sh | 2014-03-12 20:05:21 +0000 (Wed, 12 Mar 2014) | 3 lines
+Changed paths:
+   M /trunk/ChangeLog.txt
+   M /trunk/Modules/Sort.lua
+
+Getting Ready for release
+v1.0.3
+* Implemented Reverse Sorting of tabs(items will be sorted from last slot to first
+------------------------------------------------------------------------
+r22 | j311yf1sh | 2014-03-03 13:13:12 +0000 (Mon, 03 Mar 2014) | 1 line
+Changed paths:
+   M /trunk/ChangeLog.txt
+   M /trunk/Core.lua
+   M /trunk/Modules/Util.lua
+   M /trunk/TradeSkillMaster_GuildSorter.toc
+
+Implemented multiple operation settings
+------------------------------------------------------------------------
+r20 | j311yf1sh | 2014-02-22 19:29:56 +0000 (Sat, 22 Feb 2014) | 1 line
+Changed paths:
+   M /trunk/ChangeLog.txt
+   M /trunk/Core.lua
+   M /trunk/Modules/Sort.lua
+   M /trunk/Modules/Util.lua
+   M /trunk/TradeSkillMaster_GuildSorter.toc
+
+Implemented Guild bank tab sorting code and button
+------------------------------------------------------------------------
+r19 | j311yf1sh | 2014-02-22 12:44:40 +0000 (Sat, 22 Feb 2014) | 1 line
+Changed paths:
+   M /trunk/Core.lua
+   M /trunk/Modules/Sort.lua
+
+Fixed a few bugs more with Bagnon support and default frames
+------------------------------------------------------------------------
+r17 | j311yf1sh | 2014-02-17 10:03:23 +0000 (Mon, 17 Feb 2014) | 1 line
+Changed paths:
+   M /trunk/ChangeLog.txt
+   M /trunk/TradeSkillMaster_GuildSorter.toc
+
+updated ChangeLog.txt
+------------------------------------------------------------------------

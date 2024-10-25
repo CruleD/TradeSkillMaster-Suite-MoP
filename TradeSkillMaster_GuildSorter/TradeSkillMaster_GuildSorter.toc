@@ -1,0 +1,17 @@
+## Interface: 50400
+## Title: |cff00ff00TradeSkillMaster_GuildSorter|r
+## Notes: Add's an operation that can be applied to groups in order to organise guild bank.
+## Author: j311yf1sh
+## Version: v1.0.6
+## SavedVariables: TradeSkillMaster_GuildSorterDB
+## Dependency: TradeSkillMaster
+## X-Curse-Packaged-Version: v1.0.6
+## X-Curse-Project-Name: TradeSkillMaster_GuildSorter
+## X-Curse-Project-ID: tradeskillmaster_guildsorter
+## X-Curse-Repository-ID: wow/tradeskillmaster_guildsorter/mainline
+
+Core.lua
+
+Modules\Options.lua
+Modules\Util.lua
+Modules\Sort.lua

@@ -1,0 +1,21 @@
+v1.0.6
+* Changed new button location to fit in with titanpanel
+* Changed background of new button pannel
+
+v1.0.5
+* Implemented a new button layout to look neater
+
+v1.0.4
+* Implemented Reverse Sorting of tabs(items will be sorted from last slot to first
+
+v1.0.3
+* Implemented multiple operation settings
+
+v1.0.2
+* Implemented Guild Bank tab sorting code and button(fully working)
+
+v1.0.1
+* Implemented backup tab code
+
+v1.0.0
+* First Release
