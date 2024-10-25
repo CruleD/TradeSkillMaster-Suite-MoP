@@ -1,0 +1,19 @@
+## Interface: 50400
+## Title: |cff00ff00TradeSkillMaster_CoolDowns|r
+## Notes: Tracks your professions CD's and provides a quick way to queue them.
+## Author: Shiftywarloc aka j311yf1sh
+## Version: V2.1.13
+## RequiredDeps: TradeSkillMaster, TradeSkillMaster_Crafting
+## SavedVariables: TradeSkillMaster_CoolDownsDB
+## X-Curse-Packaged-Version: v2.1.13
+## X-Curse-Project-Name: TradeSkillMaster_CoolDowns
+## X-Curse-Project-ID: tradeskillmaster_cooldowns
+## X-Curse-Repository-ID: wow/tradeskillmaster_cooldowns/mainline
+
+Libs\LibStub\LibStub.lua
+Libs\CraftIDToProfessionInfo\CraftIDToProfessionInfo.xml
+
+TradeSkillMaster_CoolDowns.lua
+Modules\Util.lua
+Modules\Options.lua
+Modules\Time.lua

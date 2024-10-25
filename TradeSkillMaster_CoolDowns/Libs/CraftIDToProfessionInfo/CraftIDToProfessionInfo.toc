@@ -1,0 +1,11 @@
+## Interface: 40500
+## Title: CraftIDToProfessionInfo
+## Notes: Takes Craft spellID and converts it to various, information (Profession,Main Ingredient,Shared Craft CD's(soon))
+## Author: j311yf1sh
+## Version: v1.0.3
+## X-Curse-Packaged-Version: v2.1.13
+## X-Curse-Project-Name: TradeSkillMaster_CoolDowns
+## X-Curse-Project-ID: tradeskillmaster_cooldowns
+## X-Curse-Repository-ID: wow/tradeskillmaster_cooldowns/mainline
+
+CraftIDToProfessionInfo.xml

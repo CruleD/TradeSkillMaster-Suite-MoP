@@ -1,0 +1,121 @@
+------------------------------------------------------------------------
+r20 | j311yf1sh | 2014-02-07 03:41:36 +0000 (Fri, 07 Feb 2014) | 1 line
+Changed paths:
+   A /tags/v2.1.13 (from /trunk:19)
+
+Implemented mouse over tooltips for more info and multiple crafter handling
+------------------------------------------------------------------------
+r19 | j311yf1sh | 2014-02-04 11:01:58 +0000 (Tue, 04 Feb 2014) | 1 line
+Changed paths:
+   M /trunk/ChangeLog.txt
+   M /trunk/Modules/Util.lua
+   M /trunk/TradeSkillMaster_CoolDowns.lua
+   M /trunk/TradeSkillMaster_CoolDowns.toc
+
+Implemented mouse over tooltips for more info and multiple crafter handling
+------------------------------------------------------------------------
+r17 | j311yf1sh | 2014-02-02 07:10:26 +0000 (Sun, 02 Feb 2014) | 1 line
+Changed paths:
+   M /trunk/ChangeLog.txt
+   M /trunk/Modules/Options.lua
+   M /trunk/TradeSkillMaster_CoolDowns.lua
+   M /trunk/TradeSkillMaster_CoolDowns.toc
+
+Updated time code to better calculate timezone differences and server cd time
+------------------------------------------------------------------------
+r15 | j311yf1sh | 2014-01-30 09:13:45 +0000 (Thu, 30 Jan 2014) | 1 line
+Changed paths:
+   M /trunk/ChangeLog.txt
+   M /trunk/TradeSkillMaster_CoolDowns.lua
+   M /trunk/TradeSkillMaster_CoolDowns.toc
+
+Print out removed
+------------------------------------------------------------------------
+r13 | j311yf1sh | 2014-01-30 06:19:29 +0000 (Thu, 30 Jan 2014) | 1 line
+Changed paths:
+   M /trunk/ChangeLog.txt
+   M /trunk/TradeSkillMaster_CoolDowns.toc
+
+updated version number and ChangeLog.txt
+------------------------------------------------------------------------
+r12 | j311yf1sh | 2014-01-30 06:17:37 +0000 (Thu, 30 Jan 2014) | 1 line
+Changed paths:
+   M /trunk/TradeSkillMaster_CoolDowns.lua
+
+Localized variable
+------------------------------------------------------------------------
+r11 | j311yf1sh | 2014-01-30 06:07:13 +0000 (Thu, 30 Jan 2014) | 1 line
+Changed paths:
+   M /trunk/Libs/CraftIDToProfessionInfo/CraftIDToProfessionInfo.lua
+
+updated CraftIDToProfessionInfo for more info
+------------------------------------------------------------------------
+r9 | j311yf1sh | 2014-01-29 21:18:08 +0000 (Wed, 29 Jan 2014) | 1 line
+Changed paths:
+   M /trunk/ChangeLog.txt
+
+ChangeLog.txt update
+------------------------------------------------------------------------
+r8 | j311yf1sh | 2014-01-29 21:16:07 +0000 (Wed, 29 Jan 2014) | 1 line
+Changed paths:
+   M /trunk/TradeSkillMaster_CoolDowns.lua
+
+Fixed spaces
+------------------------------------------------------------------------
+r7 | j311yf1sh | 2014-01-29 21:09:46 +0000 (Wed, 29 Jan 2014) | 1 line
+Changed paths:
+   M /trunk/Modules/Options.lua
+   M /trunk/TradeSkillMaster_CoolDowns.toc
+
+Spelling and grammar checking
+------------------------------------------------------------------------
+r6 | j311yf1sh | 2014-01-29 20:44:49 +0000 (Wed, 29 Jan 2014) | 1 line
+Changed paths:
+   M /trunk/Modules/Options.lua
+   M /trunk/Modules/Util.lua
+   M /trunk/TradeSkillMaster_CoolDowns.lua
+
+Attempted another fix of errors
+------------------------------------------------------------------------
+r4 | j311yf1sh | 2014-01-29 09:39:00 +0000 (Wed, 29 Jan 2014) | 1 line
+Changed paths:
+   M /trunk/ChangeLog.txt
+
+Fixed ChangeLog.txt again
+------------------------------------------------------------------------
+r3 | j311yf1sh | 2014-01-29 09:35:38 +0000 (Wed, 29 Jan 2014) | 1 line
+Changed paths:
+   A /trunk/ChangeLog.txt
+
+Attempted to fix an error with a string not returning line 108 + Added ChangeLog.txt
+------------------------------------------------------------------------
+r2 | j311yf1sh | 2014-01-29 09:27:39 +0000 (Wed, 29 Jan 2014) | 1 line
+Changed paths:
+   A /trunk/Libs
+   A /trunk/Libs/CraftIDToProfessionInfo
+   A /trunk/Libs/CraftIDToProfessionInfo/CraftIDToProfessionInfo.lua
+   A /trunk/Libs/CraftIDToProfessionInfo/CraftIDToProfessionInfo.toc
+   A /trunk/Libs/CraftIDToProfessionInfo/CraftIDToProfessionInfo.xml
+   A /trunk/Libs/CraftIDToProfessionInfo/Libs
+   A /trunk/Libs/CraftIDToProfessionInfo/Libs/LibStub.lua
+   A /trunk/Libs/CraftIDToProfessionInfo/Libs/LibStub.toc
+   A /trunk/Libs/CraftIDToProfessionInfo/Test1.lua
+   A /trunk/Libs/LibStub
+   A /trunk/Libs/LibStub/LibStub.lua
+   A /trunk/Modules
+   A /trunk/Modules/Options.lua
+   A /trunk/Modules/Time.lua
+   A /trunk/Modules/Util.lua
+   A /trunk/TradeSkillMaster_CoolDowns.lua
+   A /trunk/TradeSkillMaster_CoolDowns.toc
+
+Attempted to fix an error with a string not returning line 108.
+------------------------------------------------------------------------
+r1 | svn | 2014-01-29 09:08:16 +0000 (Wed, 29 Jan 2014) | 1 line
+Changed paths:
+   A /branches
+   A /tags
+   A /trunk
+
+tradeskillmaster_cooldowns/mainline: Initial Import
+------------------------------------------------------------------------

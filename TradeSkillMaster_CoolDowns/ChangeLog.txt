@@ -1,0 +1,85 @@
+V2.1.13
+* Implemented mouse over code by MTRazeR
+
+V2.1.12
+* Updated time code thanks to MTRazeR
+
+V2.1.11
+* Print out removed
+
+V2.1.10
+* Added more items to crafted item list
+* Other minor fixes
+
+V2.1.9
+* Attempted another fix for an error
+* other minor bug fixes
+
+V2.1.8
+* Attempted to fix problem with string checking.
+
+V2.1.7
+* Fixed upload problems with accidental files.
+
+V2.1.6
+* Fixed issue with  Logout/quit over loading.
+
+V2.1.4
+* Fixed previous error in a different way with help from MorgDeath
+* Added code for possible button instead of checkbox
+
+V2.1.3
+* Added string check to fix an error
+
+V2.1.2
+* Implemented AutoQueue Feature with help from MorgDeath
+* Changed icon again
+* Various other bug fixes
+
+V2.1.1
+* Implemented /tsm QueueCoolDowns and /tsm UnQueueCoolDowns
+
+V2.1.0
+* Implemented basic timing, show it shows a cd(Written mostly by MorgDeath)
+* Bug fixes
+* other stuff
+* no-one reads change logs
+
+V2.0.5
+* Updated Libs
+
+V2.0.4
+* Fixed an error, that caused the grouping of items to not work effectively.
+
+V2.0.3
+* Updated library that didnt update before.
+
+V2.0.2
+* Fixed bug causing errors in spellID's not being found
+* Various other code fixes.
+
+V2.0.1
+* Various bug fixes.
+
+V2.0
+* Re-wrote code for organizing screen
+* Fixed double CD's by adding multiple names
+* Fixed page not refreshing on clicking enable/disable all
+* Add/Created new library for getting professions from itemID
+* Organised layout through professions
+* Changed Icon to scroll case
+* Added ingredients to end of double cd names.
+* Various other fixes
+
+V1.0
+* First full version
+* Pulls CD crafts from TSM
+* Added more buttons add/remove/enable/disable
+* Fixed DB so cd's stay enabled/disabled on reload
+* various other bug fixes and code neaten
+
+V0.2
+* Bart39 added a api command to TSM, everyone thank him.
+
+V0.1
+* First Version
